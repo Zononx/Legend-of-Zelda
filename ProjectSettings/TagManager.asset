@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - breakable
+  - enemy
+  - world
+  - Enemy
+  - enemyHitbox
+  - enemyHitboxManager
+  - dog
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - World
+  - 
+  - Enemy
+  - Enemy Projectile
+  - Player Projectile
+  - Player
+  - Minimap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sign
+    uniqueID: 3654945353
+    locked: 0
+  - name: breakable
+    uniqueID: 327902723
+    locked: 0
+  - name: Enemy
+    uniqueID: 1680944635
+    locked: 0
+  - name: Enemy Projectile
+    uniqueID: 2106149983
+    locked: 0
+  - name: Dog
+    uniqueID: 2154910175
+    locked: 0
+  - name: Player
+    uniqueID: 1077304775
+    locked: 0

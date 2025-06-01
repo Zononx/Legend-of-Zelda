@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 836f12b787eef034aa116840422645ce, type: 3}
+  m_Name: Arrow
+  m_EditorClassIdentifier: 
+  magicCost: 2
+  duration: 0.3
+  playerMagic: {fileID: 11400000, guid: b9d89b43ab379ea4c86a72a278d46a55, type: 2}
+  usePlayerMagic: {fileID: 11400000, guid: 6e482798694a21048a82b3840a4fc743, type: 2}
+  thisProjectile: {fileID: 4020306396809118593, guid: 5701f67bbe1d0ca4393a3107b12cb592, type: 3}
